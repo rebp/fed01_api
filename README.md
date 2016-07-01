@@ -1,4 +1,4 @@
-#Eind opdracht Serious Javascript API
+#Eindopdracht Serious Javascript API
 
 Dit is een simpel RESTfull API gemaakt voor de Javascript Eindopdracht
 
